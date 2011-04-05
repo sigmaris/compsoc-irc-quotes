@@ -1,4 +1,4 @@
-#/usr/
+#/usr/bin/env ruby
 require 'cinch'
 require 'sequel'
 require 'yaml'
