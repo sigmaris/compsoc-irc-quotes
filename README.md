@@ -7,3 +7,6 @@ _It's like qdb.us but a lot smaller._
 
 [1]: https://github.com/oliland/compsoc-irc-quotes/contributors
 [2]: https://github.com/xoebus/compsoc-irc-quotes/network
+
+...
+
